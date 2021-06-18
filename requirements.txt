@@ -1,0 +1,8 @@
+numpy==1.19.5 
+Pillow==7.1.2 
+torch==1.8.1+cu101 
+torchvision==0.9.1+cu101 
+Werkzeug==0.16.0
+Flask==1.1.1
+flask_uploads==0.2.1 
+pickle-mixin==1.0.2
